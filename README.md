@@ -7,7 +7,7 @@ The software engineering project group consists of:
 2. Morgan Reece (morgan-at-MSU)
 
 ## Project Description
-The dogPile Email Client is a web based application.
+The dogPile Email Client is a web based application for allowing various email functions in one easy to use location.
 
 ## Objective
 The objective is to design a web based email client that will have a number of different functionalities:
